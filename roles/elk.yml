@@ -1,0 +1,4 @@
+- name: logstash configuration
+  hosts: all
+  roles:
+    - elk
